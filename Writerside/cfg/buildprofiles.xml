@@ -10,7 +10,7 @@
         <variables>
             <noindex-content>true</noindex-content>
             <header-logo>calculus_logo.png</header-logo>
-            <product-web-url>https://tjwhang.github.io/introduction.html</product-web-url>
+            <product-web-url>https://tjwhang.github.io/learnCalculus/intro-calculus.html</product-web-url>
         </variables>
     </build-profile>
     <build-profile instance="algebra">
