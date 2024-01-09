@@ -13,5 +13,10 @@
             <product-web-url>https://tjwhang.github.io/introduction.html</product-web-url>
         </variables>
     </build-profile>
+    <build-profile instance="algebra">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
 
 </buildprofiles>

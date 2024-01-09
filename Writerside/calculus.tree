@@ -3,8 +3,8 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="calculus" name="미분적분학"
-                  start-page="introduction.md">
+                  start-page="intro-calculus.md">
 
-    <toc-element topic="introduction.md"/>
-    <toc-element topic="limAndContinuity.md"/>
+    <toc-element topic="intro-calculus.md"/>
+    <toc-element topic="lim-continuity.md"/>
 </instance-profile>
